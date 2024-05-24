@@ -1,0 +1,46 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+}
+.main{
+    font-family: "Figtree", sans-serif;
+    margin: 150px;
+    width: 1920px;
+    height:1080px
+}
+.top{
+    margin-bottom: 89px;
+}
+.taria{
+    width: 1620px;
+    height: 950.99px;
+    padding: 66.35px;
+    border: solid #1A1E3D10 2px;
+    border-radius: 33.17px;
+    text-align:left;
+}
+th, td {
+    border-bottom: solid #1A1E3D10 2px;
+    
+}
+
+.status-c{
+    width: 149.28px;
+    height:37.82px;
+    background:#18C96420;
+    color: #18C964;
+    border-radius: 13821.14px;
+    text-align: center;
+    
+}
+.status-f{
+    width: 149.28px;
+    height:37.82px;
+    background:#F3126020;
+    color: #F31260;
+    border-radius: 13821.14px;
+    text-align: center;
+}
+.status-e{
+    text-align: right;
+}

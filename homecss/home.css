@@ -1,0 +1,19 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+}
+.main{
+    font-family: "Figtree", sans-serif;
+    margin: 150px;
+    width: 1920px;
+    height:1080px
+}
+.top{
+    margin-bottom: 89px;
+}
+.taria{
+    width: 1620px;
+    height: 950.99px;
+    border: solid #11111110 2px;
+    border-radius: 33.17px;
+}
