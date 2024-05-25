@@ -34,11 +34,18 @@ td{
 [class^="status-"] {
     width: 149.28px;
     height:37.82px;
+    padding: 7px;
     background:#18C96420;
     color: #18C964;
     border-radius: 13821.14px;
     text-align: center;
-    
+
+}
+[class*="status-"] img,
+[class^="status-"] img,
+[class*="status-"] span,
+[class^="status-"] span{
+    vertical-align: middle;
 }
 .status-f{
     background:#F3126020;
